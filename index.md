@@ -109,11 +109,11 @@ doi:10.3390/rs9060609.
 
 \item[9.] {\bf X. Wu}, F. Nekka* and J. Li, Model Based and Model Independent Evaluations of Steady-State Volume of Distribution (Vdss) of Two-Compartment Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations, {\it Journal of Pharmacokinetics and Pharmacodynamics} 42(2015):S75-S76
 
-\item[8.] Y. Lou, J. Wu* and {\bf X. Wu}, Impact of Biodiversity and Seasonality on Lyme Pathogen Transmission. {\it \textcolor[rgb]{0,0,1}{Theoretical Biology and Medical Modelling}}, 2014, 11:50.
+8、 Y. Lou, J. Wu* and  X. Wu, Impact of Biodiversity and Seasonality on Lyme Pathogen Transmission. {\it \textcolor[rgb]{0,0,1}{Theoretical Biology and Medical Modelling}}, 2014, 11:50.
 
-\item[7.] {\bf X. Wu}, J. Li and F. Nekka*, Closed Form Solutions of Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations. {\it Journal of Pharmacokinetics and Pharmacodynamics}, 42(2014), S90.
+7、 X. Wu, J. Li and F. Nekka*, Closed Form Solutions of Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations. {\it Journal of Pharmacokinetics and Pharmacodynamics}, 42(2014), S90.
 
-\item[6.] N. H. Ogden*, R. Milka*, {\bf X. Wu}*, V. Duvvuri, P. A. Leighton and J. Wu, Estimated Effects of Projected Climate Change on the Basic Reproductive Number of the Lyme Disease Vector Ixodes scapularis. {\it\textcolor[rgb]{0,0,1}{Environmental Health Perspectives}}, 122 (2014), 631-638 (*: 并列第一作者，高被引，环境科学与生态学顶级期刊（一区）).
+6、 N. H. Ogden*, R. Milka*,  X. Wu*, V. Duvvuri, P. A. Leighton and J. Wu, Estimated Effects of Projected Climate Change on the Basic Reproductive Number of the Lyme Disease Vector Ixodes scapularis. Environmental Health Perspectives, 122 (2014), 631-638 (*: 并列第一作者，高被引，环境科学与生态学顶级期刊（一区）).
 
 
 5、 X. Wu, V. Duvvuri, Y. Lou, N. H. Ogden, Y. Pelcat and J. Wu*, Developing a temperature-driven map of the basic reproductive number of the emerging tick vector of Lyme disease  Ixodes Scapularis in Canada. Journal of Theoretical Biology, 319 (2013), 50-61.
