@@ -1,8 +1,7 @@
 # 个人信息
- \begin{itemize}
-    \item 任职：吴孝钿，女，上海海事大学文理学院副教授
-    \item 联系方式：xtwu@shmtu.edu.cn
-\end{itemize}
+
+ 吴孝钿，上海海事大学文理学院副教授，联系方式：xtwu@shmtu.edu.cn
+
 
 
 ### Markdown
