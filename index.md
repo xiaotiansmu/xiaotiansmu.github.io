@@ -72,16 +72,16 @@ first-order and Michaelis-Menten elimination: Analytical solution and drug expos
 
 \item[26.] Dingding Yan, {\bf Xiaotian Wu*} and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, submitted to {\it Journal of pharmacokinetics and pharmacodynamics}
 
-\item[25.] {\bf X. Wu}, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}} 
+25、X. Wu, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, Journal of Pharmacokinetics and Pharmacodynamics，2021 
 
-\item[24.] MengMeng Zhao, Jianhong Ma, Wei Yang, Wenhui Yu, {\bf Xiaotian Wu*}, AUC assessment of one-compartment pharmacokinetic models with double simultaneous Michaelis-Menten kinetics elimination, {\it \textcolor[rgb]{0,0,1}{Mathematical Modelling and Its Applications}}, 2020,9(3):22-31.
+24、 MengMeng Zhao, Jianhong Ma, Wei Yang, Wenhui Yu, Xiaotian Wu*, AUC assessment of one-compartment pharmacokinetic models with double simultaneous Michaelis-Menten kinetics elimination, Mathematical Modelling and Its Applications, 2020,9(3):22-31.
 
-\item[23.] S. Wang*, X. Wang and {\bf X. Wu*}, Bifurcation Analysis for a Food Chain Model with Nonmonotonic Nutrition Conversion Rate of Predator to Top Predator. {\it \textcolor[rgb]{0,0,1}{International Journal of Bifurcation and Chaos}}, 2020, 30(08), 2050113. doi:10.1142/s0218127420501138 
+23、 S. Wang*, X. Wang and  X. Wu*, Bifurcation Analysis for a Food Chain Model with Nonmonotonic Nutrition Conversion Rate of Predator to Top Predator. International Journal of Bifurcation and Chaos, 2020, 30(08), 2050113. doi:10.1142/s0218127420501138 
 
-\item[22. ] {\bf X. Wu} and J. Li*, Morphism classification of a family of transcendent functions arising from pharmacokinetic modelling, {\it \textcolor[rgb]{0,0,1}{Math Meth Appl Sci.}} 2021, 44(1):140-152. 
+22、 X. Wu and J. Li*, Morphism classification of a family of transcendent functions arising from pharmacokinetic modelling, Math Meth Appl Sci., 2021, 44(1):140-152. 
 DOI: 10.1002/mma.6714 
 
-\item [21. ] {\bf X. Wu*}, D. Gao, Z. Song, J. Wu, Modelling Triatomine Bug Population and {\it Trypanosoma rangeli} Transmission Dynamics: Co-feeding, Pathogenic Effect and Linkage with Chagas Disease, {\it \textcolor[rgb]{0,0,1}{Math Biosci.}} 2020;324:108326. doi:10.1016/j.mbs.2020.108326
+21、 X. Wu*, D. Gao, Z. Song, J. Wu, Modelling Triatomine Bug Population and  Trypanosoma rangeli Transmission Dynamics: Co-feeding, Pathogenic Effect and Linkage with Chagas Disease, Math Biosci., 2020;324:108326. doi:10.1016/j.mbs.2020.108326
 
 20、 X. Wu, F. Nekka and J. Li*, Analytical Solution and Exposure Analysis of a Pharmacokinetic Model with Simultaneous Elimination Pathways and Endogenous Production: The Case of Multiple Dosing Administration, Bulletin of Mathematical Biology, (2019) 81:3436-3459.
 
