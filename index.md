@@ -1,4 +1,4 @@
-## 吴孝钿
+# 吴孝钿
 
 上海海事大学文理学院副教授，联系方式：xtwu@shmtu.edu.cn
 个人主页：https://xiaotiansmu.github.io/
@@ -26,6 +26,20 @@
    - 2016.07-目前，上海海事大学，文理学院，副教授
    - 2015.08-2016.06，上海海事大学，文理学院，讲师
    - 2003.07-2007.12，浙江工商大学，数学与统计学院，讲师
+
+## 教学经历
+   - 上海海事大学：数学分析（III）、高等数学（中文，双语，全英文）、数学实验、线性代数
+   - 加拿大西安大略大学：AM1201b: Calculus and Probability With Biological Applications, 教学评估: 5.8/7
+   - 浙江工商大学：微积分、线性代数、概率论与数理统计、复分析和积分变换
+## 基金项目
+   - 2021.1-2024.12，国家自然科学基金面上项目(No. 12071300)，主要参与者，52万
+     题目：人口流动对传染病持久性和患病率的影响
+   - 2016.1-2018.12, 国家自然科学基金青年项目 (No. 11501358)，主持，18万
+     题目：多通道非线性排泄模式的药物动力学的数学问题
+   - 2016.1-2017.12，加拿大魁北克省自然科学基金 (FRQNT, No.193180)，主持，7万加元
+     题目：Pharmacokinetics of Hormone Drug with Simultaneous Linear and Non-linear Saturable Eliminations: analytical solutions and kinetic delineation
+   - 2017.1-2019.12, 国家自然科学基金青年项目(No.11601323)，参与，18万
+
 
 
 
