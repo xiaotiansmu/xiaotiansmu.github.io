@@ -101,15 +101,15 @@ doi:10.3390/rs9060609.
 
 \item[13.] {\bf X. Wu}, F. Nekka* and J. Li, Steady-state volume of distribution of two-compartment models with simultaneous linear and saturated elimination, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 43(2016):447-459. （药学专业期刊）
 
-\item[12.] {\bf X. Wu}, G. R\"ost and X. Zou*, Impact of spring bird migration on the range expansion of {\it Ixodes scapularis} tick population, {\it \textcolor[rgb]{0,0,1}{Bulletin of Mathematical Biology}}, 78(2016), 138-168. 
+12、 X. Wu, G. R\"ost and X. Zou*, Impact of spring bird migration on the range expansion of {\it Ixodes scapularis} tick population, Bulletin of Mathematical Biology, 78(2016), 138-168. 
 
-\item[11.] {\bf X. Wu}, F. M. G. Magpantay and J. Wu* and X. Zou, Stage-Structured Population Systems with Temporally Periodic Delay.  {\it \textcolor[rgb]{0,0,1}{Mathematical Methods in the Applied Sciences}}, 38(2015), 3464-3481.
+11、 X. Wu, F. M. G. Magpantay and J. Wu* and X. Zou, Stage-Structured Population Systems with Temporally Periodic Delay.  Mathematical Methods in the Applied Sciences, 38(2015), 3464-3481.
 
-\item[10.] {\bf X. Wu}, J. Li and F. Nekka*, Closed form solutions and dominant elimination pathways of simultaneous first-order and Michaelis-Menten kinetics. {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 42 (2015), 151-161. (药学专业期刊)
+10、 X. Wu, J. Li and F. Nekka*, Closed form solutions and dominant elimination pathways of simultaneous first-order and Michaelis-Menten kinetics. Journal of Pharmacokinetics and Pharmacodynamics, 42 (2015), 151-161. (药学专业期刊)
 
-\item[9.] {\bf X. Wu}, F. Nekka* and J. Li, Model Based and Model Independent Evaluations of Steady-State Volume of Distribution (Vdss) of Two-Compartment Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations, {\it Journal of Pharmacokinetics and Pharmacodynamics} 42(2015):S75-S76
+9、 X. Wu, F. Nekka* and J. Li, Model Based and Model Independent Evaluations of Steady-State Volume of Distribution (Vdss) of Two-Compartment Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations, Journal of Pharmacokinetics and Pharmacodynamics, 42(2015):S75-S76
 
-8、 Y. Lou, J. Wu* and  X. Wu, Impact of Biodiversity and Seasonality on Lyme Pathogen Transmission. {\it \textcolor[rgb]{0,0,1}{Theoretical Biology and Medical Modelling}}, 2014, 11:50.
+8、 Y. Lou, J. Wu* and  X. Wu, Impact of Biodiversity and Seasonality on Lyme Pathogen Transmission. Theoretical Biology and Medical Modelling, 2014, 11:50.
 
 7、 X. Wu, J. Li and F. Nekka*, Closed Form Solutions of Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations. {\it Journal of Pharmacokinetics and Pharmacodynamics}, 42(2014), S90.
 
