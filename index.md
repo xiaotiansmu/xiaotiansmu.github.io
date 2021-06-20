@@ -72,7 +72,7 @@ first-order and Michaelis-Menten elimination: Analytical solution and drug expos
 
 \item[26.] Dingding Yan, {\bf Xiaotian Wu*} and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, submitted to {\it Journal of pharmacokinetics and pharmacodynamics}
 
-25、X. Wu, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, Journal of Pharmacokinetics and Pharmacodynamics，2021 
+25、X. Wu, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, Journal of Pharmacokinetics and Pharmacodynamics，2021, doi.org/10.1007/s10928-021-09740-5
 
 24、 MengMeng Zhao, Jianhong Ma, Wei Yang, Wenhui Yu, Xiaotian Wu*, AUC assessment of one-compartment pharmacokinetic models with double simultaneous Michaelis-Menten kinetics elimination, Mathematical Modelling and Its Applications, 2020,9(3):22-31.
 
