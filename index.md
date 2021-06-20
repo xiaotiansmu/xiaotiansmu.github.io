@@ -6,10 +6,12 @@
  
 ## 教育背景
    ### 加拿大约克大学（多伦多），应用数学， 理学博士，2013.06
+   
    导师：吴建宏教授，加拿大工业与应用数学首席科学家
    论文题目：Modelling the Impact of Climate Change on Tick Population Dynamics and Tick-borne Disease Spread
    
    ### 复旦大学(上海)，应用数学，理学硕士，2003.06
+   
   导师：李大潜院士
   论文题目：Meshless Method of Solving Partial Differential Equations and Applications
   
