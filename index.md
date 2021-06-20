@@ -41,6 +41,13 @@
      题目：Pharmacokinetics of Hormone Drug with Simultaneous Linear and Non-linear Saturable Eliminations: analytical solutions and kinetic delineation
    - 2017.1-2019.12, 国家自然科学基金青年项目(No.11601323)，参与，18万
 
+## 学生指导
+### 硕士生
+  - 张浩：2020.09--， ongoing
+  - 张晶：指导参加2020年《上海市生物数学与大数据分析》研究生论坛获三等奖
+ - 陈敏：2019.09--， ongoing，合作完成"Constant infusion case of one compartment pharmacokinetic model with simultaneous
+first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula”， Journal of Pharmacokinetics and Pharmacodynamics, 2021
+
 
 
 
