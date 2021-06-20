@@ -62,5 +62,70 @@ first-order and Michaelis-Menten elimination: Analytical solution and drug expos
     - 蒲亮瑜，吴孝钿，李政，双语教学在高等数学中的实践，创新教育研究, 2021
     - 赵蒙蒙、马建宏、杨维、于文慧,吴孝钿*，具两个米氏代谢非线性药物动力学模型AUC的评估，数学建模及其应用，2020,9(3):22-31.
     - 陈彦伶，董彦君，李卓奕，王丹，吴孝钿，李青，COVID-19疫情下网课对大学生学习的影响，创新教育研究, 2020, 8(6), 1007-1014.
+    
+## Publications
+\item[29.] {\bf X. Wu}, D. Gao, Z. Song and J. Wu*, Modelling {\it Trypanosoma cruzi-Trypanosoma rangeli} Co-infection and Pathogenic Effect on Chagas Disease Spread. Ready to submit to {\it \textcolor[rgb]{0,0,1}{Journal of Theoretical Biology}}.
+
+\item[28.] S. Wang*, H. Li and {\bf X. Wu*}, The influence of birth on consensus in opinion dynamics, submitted to {\it Physica A}
+
+\item[27.] {\bf X. Wu}, H. Zhang and J. Li*, Closed-form solutions and specific properties of one-compartment pharmacokinetic model with sigmoidal Hill elimination, submitted to {\it Journal of Mathematical Biology}
+
+\item[26.] Dingding Yan, {\bf Xiaotian Wu*} and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, submitted to {\it Journal of pharmacokinetics and pharmacodynamics}
+
+\item[25.] {\bf X. Wu}, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}} 
+
+\item[24.] MengMeng Zhao, Jianhong Ma, Wei Yang, Wenhui Yu, {\bf Xiaotian Wu*}, AUC assessment of one-compartment pharmacokinetic models with double simultaneous Michaelis-Menten kinetics elimination, {\it \textcolor[rgb]{0,0,1}{Mathematical Modelling and Its Applications}}, 2020,9(3):22-31.
+
+\item[23.] S. Wang*, X. Wang and {\bf X. Wu*}, Bifurcation Analysis for a Food Chain Model with Nonmonotonic Nutrition Conversion Rate of Predator to Top Predator. {\it \textcolor[rgb]{0,0,1}{International Journal of Bifurcation and Chaos}}, 2020, 30(08), 2050113. doi:10.1142/s0218127420501138 
+
+\item[22. ] {\bf X. Wu} and J. Li*, Morphism classification of a family of transcendent functions arising from pharmacokinetic modelling, {\it \textcolor[rgb]{0,0,1}{Math Meth Appl Sci.}} 2021, 44(1):140-152. 
+DOI: 10.1002/mma.6714 
+
+\item [21. ] {\bf X. Wu*}, D. Gao, Z. Song, J. Wu, Modelling Triatomine Bug Population and {\it Trypanosoma rangeli} Transmission Dynamics: Co-feeding, Pathogenic Effect and Linkage with Chagas Disease, {\it \textcolor[rgb]{0,0,1}{Math Biosci.}} 2020;324:108326. doi:10.1016/j.mbs.2020.108326
+
+\item [20.] {\bf X. Wu}, F. Nekka and J. Li*, Analytical Solution and Exposure Analysis of a Pharmacokinetic Model with Simultaneous Elimination Pathways and Endogenous Production: The Case of Multiple Dosing Administration, {\it \textcolor[rgb]{0,0,1}{Bulletin of Mathematical Biology}} (2019) 81:3436-3459.
+
+\item [19.] Nah K, Magpantay FMG, Bede-Fazekas \'A, R\"ost G, Tr\'ajer AJ, {\bf Wu X}, Zhang X, Wu J*. Assessing systemic and non-systemic transmission risk of tick-borne encephalitis virus in Hungary. {\it PLoS One.} (2019) 14(6):e0217206. doi: 10.1371/journal.pone.0217206.
+
+\item[18.] R. Jennings, Y. Kuang, H.R. Thieme*, J. Wu, {\bf X. Wu}. How ticks keep ticking in the adversity of host immune reactions. {\it\textcolor[rgb]{0,0,1}{J Math Biol.}} 2018. doi: 10.1007/s00285-018-1311-1. 
+
+\item [17.] {\bf X. Wu}, F. Nekka and J. Li*, Mathematical analysis and drug exposure evaluation of pharmacokinetic models with endogenous production and simultaneous first-order and Michaelis-Menten elimination: the case of single dose, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 2018,45:693-705. （药学专业期刊）
+
+\item[16.] X. Zhang, {\bf X. Wu} and J. Wu*, Critical contact rate for vector-host-pathogen oscillation involving co-feeding and diapause, {\it J. Biol. Syst.} 2017,25(4), 657-675. 
+
+\item[15.] Angela Cheng, Dongmei Chen*, Katherine Woodstock, Nicholas H. Ogden, {\bf Xiaotian Wu} and Jianhong Wu, Analyzing the Potential Risk of Climate Change on
+Lyme Disease in Eastern Ontario, Canada Using Time Series Remotely Sensed Temperature Data and Tick Population Modelling, {\it Remote Sens.} 2017, 9(6), 609; 
+doi:10.3390/rs9060609.
+
+\item[14.] {\bf X. Wu}, F. Nekka and J. Li*, Closed-form solutions and some pharmacokinetic properties of a compartment model where endogenous input is taken into account, {\it Journal of Pharmacokinetics and Pharmacodynamics} 43(2016):S120.
+
+\item[13.] {\bf X. Wu}, F. Nekka* and J. Li, Steady-state volume of distribution of two-compartment models with simultaneous linear and saturated elimination, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 43(2016):447-459. （药学专业期刊）
+
+\item[12.] {\bf X. Wu}, G. R\"ost and X. Zou*, Impact of spring bird migration on the range expansion of {\it Ixodes scapularis} tick population, {\it \textcolor[rgb]{0,0,1}{Bulletin of Mathematical Biology}}, 78(2016), 138-168. 
+
+\item[11.] {\bf X. Wu}, F. M. G. Magpantay and J. Wu* and X. Zou, Stage-Structured Population Systems with Temporally Periodic Delay.  {\it \textcolor[rgb]{0,0,1}{Mathematical Methods in the Applied Sciences}}, 38(2015), 3464-3481.
+
+\item[10.] {\bf X. Wu}, J. Li and F. Nekka*, Closed form solutions and dominant elimination pathways of simultaneous first-order and Michaelis-Menten kinetics. {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 42 (2015), 151-161. (药学专业期刊)
+
+\item[9.] {\bf X. Wu}, F. Nekka* and J. Li, Model Based and Model Independent Evaluations of Steady-State Volume of Distribution (Vdss) of Two-Compartment Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations, {\it Journal of Pharmacokinetics and Pharmacodynamics} 42(2015):S75-S76
+
+\item[8.] Y. Lou, J. Wu* and {\bf X. Wu}, Impact of Biodiversity and Seasonality on Lyme Pathogen Transmission. {\it \textcolor[rgb]{0,0,1}{Theoretical Biology and Medical Modelling}}, 2014, 11:50.
+
+\item[7.] {\bf X. Wu}, J. Li and F. Nekka*, Closed Form Solutions of Pharmacokinetic Models with Parallel First-Order and Michaelis-Menten Eliminations. {\it Journal of Pharmacokinetics and Pharmacodynamics}, 42(2014), S90.
+
+\item[6.] N. H. Ogden*, R. Milka*, {\bf X. Wu}*, V. Duvvuri, P. A. Leighton and J. Wu, Estimated Effects of Projected Climate Change on the Basic Reproductive Number of the Lyme Disease Vector Ixodes scapularis. {\it\textcolor[rgb]{0,0,1}{Environmental Health Perspectives}}, 122 (2014), 631-638 (*: 并列第一作者，高被引，环境科学与生态学顶级期刊（一区）).
+
+
+\item [5.]{\bf X. Wu}, V. Duvvuri, Y. Lou, N. H. Ogden, Y. Pelcat and J. Wu*, Developing a temperature-driven map of the basic reproductive number of the emerging tick vector of Lyme disease {\it Ixodes Scapularis} in Canada. {\it\textcolor[rgb]{0,0,1}{Journal of Theoretical Biology}}, 319 (2013), 50-61.
+
+\item [4.]Y. Lou, J. Wu* and {\bf X. Wu}, Lyme Pathogen Transmission in Tick Populations with Multiple Host Species.
+{\it BIOMAT2012 International Symposium on Mathematical and Computational Biology}, (2012), 29-43.
+
+\item [3.]{\bf X. Wu} and J. Wu*, Diffusive Systems with Seasonality: Eventually Strongly Order-Preserving Periodic Processes and Range Expansion of Tick Populations. {\it The Canadian Applied Mathematics Quarterly}, 20 (2012), 557--587.
+
+\item [2.]{\bf X. Wu}, V. Duvvuri and J. Wu*, Modeling dynamical temperature influence on tick {\it Ixodes scapularis} population. 
+{\it 2010 International Congress on Environmental Modelling and Software}, (2010), 2272--2287.
+
+1、X. Wu, Meshless Method of Solving Partial Differential Equations. {\it Journal of Fudan University (Science)}, 03 (2004), 292--299.
 
 
