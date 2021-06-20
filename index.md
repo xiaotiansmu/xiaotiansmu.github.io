@@ -64,13 +64,13 @@ first-order and Michaelis-Menten elimination: Analytical solution and drug expos
     - 陈彦伶，董彦君，李卓奕，王丹，吴孝钿，李青，COVID-19疫情下网课对大学生学习的影响，创新教育研究, 2020, 8(6), 1007-1014.
     
 ## Publications
-\item[29.] {\bf X. Wu}, D. Gao, Z. Song and J. Wu*, Modelling {\it Trypanosoma cruzi-Trypanosoma rangeli} Co-infection and Pathogenic Effect on Chagas Disease Spread. Ready to submit to {\it \textcolor[rgb]{0,0,1}{Journal of Theoretical Biology}}.
+29、 X. Wu, D. Gao, Z. Song and J. Wu*, Modelling  Trypanosoma cruzi-Trypanosoma rangeli Co-infection and Pathogenic Effect on Chagas Disease Spread. Ready to submit to Journal of Theoretical Biology.
 
-\item[28.] S. Wang*, H. Li and {\bf X. Wu*}, The influence of birth on consensus in opinion dynamics, submitted to {\it Physica A}
+28、 S. Wang*, H. Li and X. Wu*, The influence of birth on consensus in opinion dynamics, submitted to  Physica A
 
-\item[27.] {\bf X. Wu}, H. Zhang and J. Li*, Closed-form solutions and specific properties of one-compartment pharmacokinetic model with sigmoidal Hill elimination, submitted to {\it Journal of Mathematical Biology}
+27、 X. Wu, H. Zhang and J. Li*, Closed-form solutions and specific properties of one-compartment pharmacokinetic model with sigmoidal Hill elimination, submitted to  Journal of Mathematical Biology
 
-\item[26.] Dingding Yan, {\bf Xiaotian Wu*} and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, submitted to {\it Journal of pharmacokinetics and pharmacodynamics}
+26、Dingding Yan, Xiaotian Wu* and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, submitted to Journal of pharmacokinetics and pharmacodynamics
 
 25、X. Wu, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, Journal of Pharmacokinetics and Pharmacodynamics，2021, doi.org/10.1007/s10928-021-09740-5
 
