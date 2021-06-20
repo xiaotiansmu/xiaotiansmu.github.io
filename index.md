@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+# 个人信息
+ \begin{itemize}
+    \item 任职：吴孝钿，女，上海海事大学文理学院副教授
+    \item 联系方式：xtwu@shmtu.edu.cn
+\end{itemize}
 
-You can use the [editor on GitHub](https://github.com/xiaotiansmu/xiaotiansmu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
