@@ -83,23 +83,23 @@ DOI: 10.1002/mma.6714
 
 \item [21. ] {\bf X. Wu*}, D. Gao, Z. Song, J. Wu, Modelling Triatomine Bug Population and {\it Trypanosoma rangeli} Transmission Dynamics: Co-feeding, Pathogenic Effect and Linkage with Chagas Disease, {\it \textcolor[rgb]{0,0,1}{Math Biosci.}} 2020;324:108326. doi:10.1016/j.mbs.2020.108326
 
-\item [20.] {\bf X. Wu}, F. Nekka and J. Li*, Analytical Solution and Exposure Analysis of a Pharmacokinetic Model with Simultaneous Elimination Pathways and Endogenous Production: The Case of Multiple Dosing Administration, {\it \textcolor[rgb]{0,0,1}{Bulletin of Mathematical Biology}} (2019) 81:3436-3459.
+20、 X. Wu, F. Nekka and J. Li*, Analytical Solution and Exposure Analysis of a Pharmacokinetic Model with Simultaneous Elimination Pathways and Endogenous Production: The Case of Multiple Dosing Administration, Bulletin of Mathematical Biology, (2019) 81:3436-3459.
 
-\item [19.] Nah K, Magpantay FMG, Bede-Fazekas \'A, R\"ost G, Tr\'ajer AJ, {\bf Wu X}, Zhang X, Wu J*. Assessing systemic and non-systemic transmission risk of tick-borne encephalitis virus in Hungary. {\it PLoS One.} (2019) 14(6):e0217206. doi: 10.1371/journal.pone.0217206.
+19、 Nah K, Magpantay FMG, Bede-Fazekas \'A, R\"ost G, Tr\'ajer AJ,  Wu X, Zhang X, Wu J*. Assessing systemic and non-systemic transmission risk of tick-borne encephalitis virus in Hungary.  PLoS One. (2019) 14(6):e0217206. doi: 10.1371/journal.pone.0217206.
 
-\item[18.] R. Jennings, Y. Kuang, H.R. Thieme*, J. Wu, {\bf X. Wu}. How ticks keep ticking in the adversity of host immune reactions. {\it\textcolor[rgb]{0,0,1}{J Math Biol.}} 2018. doi: 10.1007/s00285-018-1311-1. 
+18、 R. Jennings, Y. Kuang, H.R. Thieme*, J. Wu,  X. Wu. How ticks keep ticking in the adversity of host immune reactions. J Math Biol., 2018. doi: 10.1007/s00285-018-1311-1. 
 
-\item [17.] {\bf X. Wu}, F. Nekka and J. Li*, Mathematical analysis and drug exposure evaluation of pharmacokinetic models with endogenous production and simultaneous first-order and Michaelis-Menten elimination: the case of single dose, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 2018,45:693-705. （药学专业期刊）
+17、 X. Wu, F. Nekka and J. Li*, Mathematical analysis and drug exposure evaluation of pharmacokinetic models with endogenous production and simultaneous first-order and Michaelis-Menten elimination: the case of single dose, Journal of Pharmacokinetics and Pharmacodynamics, 2018,45:693-705. （药学专业期刊）
 
-\item[16.] X. Zhang, {\bf X. Wu} and J. Wu*, Critical contact rate for vector-host-pathogen oscillation involving co-feeding and diapause, {\it J. Biol. Syst.} 2017,25(4), 657-675. 
+16、 X. Zhang, X. Wu and J. Wu*, Critical contact rate for vector-host-pathogen oscillation involving co-feeding and diapause, J. Biol. Syst., 2017,25(4), 657-675. 
 
-\item[15.] Angela Cheng, Dongmei Chen*, Katherine Woodstock, Nicholas H. Ogden, {\bf Xiaotian Wu} and Jianhong Wu, Analyzing the Potential Risk of Climate Change on
-Lyme Disease in Eastern Ontario, Canada Using Time Series Remotely Sensed Temperature Data and Tick Population Modelling, {\it Remote Sens.} 2017, 9(6), 609; 
+15、 Angela Cheng, Dongmei Chen*, Katherine Woodstock, Nicholas H. Ogden,  Xiaotian Wu and Jianhong Wu, Analyzing the Potential Risk of Climate Change on
+Lyme Disease in Eastern Ontario, Canada Using Time Series Remotely Sensed Temperature Data and Tick Population Modelling,  Remote Sens. 2017, 9(6), 609; 
 doi:10.3390/rs9060609.
 
-\item[14.] {\bf X. Wu}, F. Nekka and J. Li*, Closed-form solutions and some pharmacokinetic properties of a compartment model where endogenous input is taken into account, {\it Journal of Pharmacokinetics and Pharmacodynamics} 43(2016):S120.
+14、 X. Wu, F. Nekka and J. Li*, Closed-form solutions and some pharmacokinetic properties of a compartment model where endogenous input is taken into account,  Journal of Pharmacokinetics and Pharmacodynamics, 43(2016):S120.
 
-\item[13.] {\bf X. Wu}, F. Nekka* and J. Li, Steady-state volume of distribution of two-compartment models with simultaneous linear and saturated elimination, {\it \textcolor[rgb]{0,0,1}{Journal of Pharmacokinetics and Pharmacodynamics}}, 43(2016):447-459. （药学专业期刊）
+13、 X. Wu, F. Nekka* and J. Li, Steady-state volume of distribution of two-compartment models with simultaneous linear and saturated elimination, Journal of Pharmacokinetics and Pharmacodynamics, 43(2016):447-459. （药学专业期刊）
 
 12、 X. Wu, G. R\"ost and X. Zou*, Impact of spring bird migration on the range expansion of {\it Ixodes scapularis} tick population, Bulletin of Mathematical Biology, 78(2016), 138-168. 
 
