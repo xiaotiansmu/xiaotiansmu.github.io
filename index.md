@@ -116,14 +116,14 @@ doi:10.3390/rs9060609.
 \item[6.] N. H. Ogden*, R. Milka*, {\bf X. Wu}*, V. Duvvuri, P. A. Leighton and J. Wu, Estimated Effects of Projected Climate Change on the Basic Reproductive Number of the Lyme Disease Vector Ixodes scapularis. {\it\textcolor[rgb]{0,0,1}{Environmental Health Perspectives}}, 122 (2014), 631-638 (*: 并列第一作者，高被引，环境科学与生态学顶级期刊（一区）).
 
 
-\item [5.]{\bf X. Wu}, V. Duvvuri, Y. Lou, N. H. Ogden, Y. Pelcat and J. Wu*, Developing a temperature-driven map of the basic reproductive number of the emerging tick vector of Lyme disease {\it Ixodes Scapularis} in Canada. {\it\textcolor[rgb]{0,0,1}{Journal of Theoretical Biology}}, 319 (2013), 50-61.
+5、 X. Wu, V. Duvvuri, Y. Lou, N. H. Ogden, Y. Pelcat and J. Wu*, Developing a temperature-driven map of the basic reproductive number of the emerging tick vector of Lyme disease  Ixodes Scapularis in Canada. Journal of Theoretical Biology, 319 (2013), 50-61.
 
-\item [4.]Y. Lou, J. Wu* and {\bf X. Wu}, Lyme Pathogen Transmission in Tick Populations with Multiple Host Species.
-{\it BIOMAT2012 International Symposium on Mathematical and Computational Biology}, (2012), 29-43.
+4、Y. Lou, J. Wu* and  X. Wu, Lyme Pathogen Transmission in Tick Populations with Multiple Host Species.
+ BIOMAT2012 International Symposium on Mathematical and Computational Biology, (2012), 29-43.
 
 3、 X. Wu and J. Wu*, Diffusive Systems with Seasonality: Eventually Strongly Order-Preserving Periodic Processes and Range Expansion of Tick Populations. The Canadian Applied Mathematics Quarterly, 20 (2012), 557--587.
 
-2 X. Wu, V. Duvvuri and J. Wu*, Modeling dynamical temperature influence on tick {\it Ixodes scapularis} population. 
+2、 X. Wu, V. Duvvuri and J. Wu*, Modeling dynamical temperature influence on tick {\it Ixodes scapularis} population. 
  2010 International Congress on Environmental Modelling and Software, (2010), 2272--2287.
 
 1、X. Wu, Meshless Method of Solving Partial Differential Equations.  Journal of Fudan University (Science), 03 (2004), 292--299.
