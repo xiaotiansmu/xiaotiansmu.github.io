@@ -32,6 +32,10 @@
    - 加拿大西安大略大学：AM1201b: Calculus and Probability With Biological Applications, 教学评估: 5.8/7
    - 浙江工商大学：微积分、线性代数、概率论与数理统计、复分析和积分变换
 
+## 研究兴趣
+   - 基于数学模型的传染病建模、动力学分析和数值仿真
+   - 基于数学模型的非线性生物制剂类药物的药动学研究和数值模拟
+
 ## 基金项目
    - 2021.1-2024.12，国家自然科学基金面上项目(No. 12071300)，主要参与者，52万
      题目：人口流动对传染病持久性和患病率的影响
@@ -50,7 +54,7 @@
 first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula”， Journal of Pharmacokinetics and Pharmacodynamics, 2021
 
 ### 本科生
- ##### 学科竞赛
+##### 学科竞赛
   - 2021，指导黄文博等3人获2021年度美国大学生数学建模竞赛二等奖
   - 2020-2021，指导王津等获2021年上海市大学生创新创业项目，校级
   - 2020-2021，指导陈彦伶等获2021年上海市大学生创新创业项目，市级
