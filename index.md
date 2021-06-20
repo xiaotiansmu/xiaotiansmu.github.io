@@ -24,6 +24,10 @@
     合作导师：Fahima Nekka 和 Jun Li 教授， Canada Research Chair in Pharmacometrics
     研究课题：Model-based Mathematical Modelling \& Simulations on drug development with a particular emphasis on nonlinear pharmacokinetic models
 
+## 工作经历
+   - 2016.07-目前，上海海事大学，文理学院，副教授
+   - 2015.08-2016.06，上海海事大学，文理学院，讲师
+   - 2003.07-2007.12，浙江工商大学，数学与统计学院，讲师
 
 
 
