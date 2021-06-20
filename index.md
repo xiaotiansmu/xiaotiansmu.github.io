@@ -1,37 +1,17 @@
-## 个人信息
+# 吴孝钿
 
- 吴孝钿，上海海事大学文理学院副教授，联系方式：xtwu@shmtu.edu.cn
+上海海事大学文理学院副教授，联系方式：xtwu@shmtu.edu.cn
+个人主页：https://xiaotiansmu.github.io/
+
+ 
+## 教育背景
+   ### 加拿大约克大学（多伦多），应用数学， 理学博士，2013.06
+   导师：吴建宏教授，加拿大工业与应用数学首席科学家
+   论文题目：Modelling the Impact of Climate Change on Tick Population Dynamics and Tick-borne Disease Spread
+  ### 复旦大学(上海)，应用数学，理学硕士，2003.06
+  导师：李大潜院士
+  论文题目：Meshless Method of Solving Partial Differential Equations and Applications
+  ### 西北工业大学 (陕西西安)，应用数学，理学学士，2000.06
 
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xiaotiansmu/xiaotiansmu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
