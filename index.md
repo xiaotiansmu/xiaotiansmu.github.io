@@ -48,6 +48,16 @@
  - 陈敏：2019.09--， ongoing，合作完成"Constant infusion case of one compartment pharmacokinetic model with simultaneous
 first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula”， Journal of Pharmacokinetics and Pharmacodynamics, 2021
 
+### 本科生
+ ##### 学科竞赛
+  - 2021，指导黄文博等3人获2021年度美国大学生数学建模竞赛二等奖
+  - 2020-2021，指导王津等获2021年上海市大学生创新创业项目，校级
+  - 2020-2021，指导陈彦伶等获2021年上海市大学生创新创业项目，市级
+  - 2019-2020,指导陈彦伶和董燕君获2020年上海市大学生创新创业项目，校级，3000元,结题优秀
+  - 2020，指导黄文博等3人获2019年度全国大学生数学建模竞赛上海市三等奖；以及2020年美国大学生数学建模竞赛二等奖
+  - 2018-2019,指导刘墨卿、吕蕊和吕博汇获2019年上海市大学生创新创业项目，市级，10000元
+  - 2018 指导赵蒙蒙获2018年上海海事大学优秀毕业论文一等奖
+  - 2017-2018,指导赵蒙蒙、马建宏、杨维、于文慧获2018年上海市大学生创新创业项目，市级，10000元
 
 
 
