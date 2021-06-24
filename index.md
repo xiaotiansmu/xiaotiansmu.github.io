@@ -48,9 +48,8 @@
 ## 学生指导
 ### 硕士生
   - 张浩：2020.09--， ongoing，合作完成SCI论文一篇，《Closed-form solutions and specific properties of one-compartment pharmacokinetic model with sigmoidal Hill elimination》投稿到Journal of Mathematical Biology
-投稿到
   - 张晶：指导参加2020年《上海市生物数学与大数据分析》研究生论坛获三等奖
- - 陈敏：2019.09--， ongoing，合作发表SCI论文一篇，"Constant infusion case of one compartment pharmacokinetic model with simultaneous
+  - 陈敏：2019.09--， ongoing，合作发表SCI论文一篇，"Constant infusion case of one compartment pharmacokinetic model with simultaneous
 first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula”， Journal of Pharmacokinetics and Pharmacodynamics, 2021
 
 ### 本科生
