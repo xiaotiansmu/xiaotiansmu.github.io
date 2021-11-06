@@ -54,6 +54,7 @@ first-order and Michaelis-Menten elimination: Analytical solution and drug expos
 
 ### 本科生
 ##### 学科竞赛
+  - 2021, 指导朱贝林，沙莉娅，何梦悦，获2021年高教社大学生数学建模比赛国赛二等奖
   - 2021, 指导陈敏、张晶，获第七届中国国际“互联网+”大学生创新创业大赛三等奖（校级）
   - 2021，指导黄文博等3人获2021年度美国大学生数学建模竞赛二等奖
   - 2020-2021，指导王津等获2021年上海市大学生创新创业项目，校级
@@ -80,7 +81,7 @@ first-order and Michaelis-Menten elimination: Analytical solution and drug expos
 
 27、 X. Wu, H. Zhang and J. Li*, Closed-form solutions and specific properties of one-compartment pharmacokinetic model with sigmoidal Hill elimination, submitted to  Journal of Mathematical Biology
 
-26、Dingding Yan, Xiaotian Wu* and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, submitted to Journal of pharmacokinetics and pharmacodynamics
+26、Dingding Yan, Xiaotian Wu* and Sanyi Tang*, Statistical analysis of one-compartment pharmacokinetic models with drug adherence, 2021, Journal of pharmacokinetics and pharmacodynamics, https://doi.org/10.1007/s10928-021-09794-5
 
 25、X. Wu, M. Chen and J. Li*, Constant infusion case of one compartment pharmacokinetic model with simultaneous first-order and Michaelis-Menten elimination: Analytical solution and drug exposure formula, Journal of Pharmacokinetics and Pharmacodynamics，2021, 48(4): 495-508. doi.org/10.1007/s10928-021-09740-5
 
